@@ -1,4 +1,4 @@
-name := "JasonAttemptCopySbtExample"
+name := "BookPragmaticScalaWorkspace"
 
 version := "1.0"
 
